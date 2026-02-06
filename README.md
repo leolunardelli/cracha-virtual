@@ -1,50 +1,82 @@
-# 🎴 Crachá Virtual
+﻿#  Crachá Virtual | Virtual Badge
 
-Cartão de perfil digital interativo e responsivo desenvolvido durante estudos de frontend.
+<div align="center">
 
-## 🚀 Tecnologias
+![Virtual Badge](https://img.shields.io/badge/Crach%C3%A1%20Virtual-Profile%20Card-FF6B6B?style=for-the-badge)
 
-- HTML5
-- CSS3 (Flexbox, animations)
-- JavaScript (opcional, se tiver interatividade)
+**An interactive and modern digital profile card with smooth animations**
 
-## 💡 Funcionalidades
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- Design responsivo para mobile e desktop
-- Animações CSS suaves
-- Layout moderno com gradient/sombras
-- Informações de perfil personalizáveis
+</div>
 
-## 📸 Preview
+---
 
-![Crachá Virtual](./preview.png)
-<!-- Adicione um screenshot do projeto -->
+##  Features
 
-## 🔗 Deploy
+-  **Modern Design** - Clean, professional layout
+-  **Smooth Animations** - CSS transitions and hover effects
+-  **Responsive** - Adapts to any screen size
+-  **Profile Card** - Avatar, name, role, social links
+-  **Gradient Background** - Eye-catching visual design
+-  **No JavaScript** - Pure HTML/CSS solution
 
-[Ver projeto ao vivo](https://leolunardelli.github.io/cracha-virtual)
-<!-- Fazer deploy no GitHub Pages -->
+---
 
-## 🛠️ Como rodar localmente
-```bash
+##  Technologies
+
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Semantic structure |
+| **CSS3** | Flexbox, Animations, Gradients |
+
+---
+
+##  Quick Start
+
+\\\ash
+# Clone the repository
 git clone https://github.com/leolunardelli/cracha-virtual.git
+
+# Open in browser
 cd cracha-virtual
-# Abrir index.html no navegador ou usar Live Server
-```
+open index.html
+\\\
 
-## 📚 Aprendizados
+---
 
-Projeto desenvolvido para praticar:
-- Estilização com CSS moderno
-- Responsividade
-- Boas práticas de estruturação HTML
+##  Project Structure
 
-## 👤 Autor
+\\\
+cracha-virtual/
+ index.html      # Main HTML file
+ style.css       # Styles & animations
+ assets/         # Images and icons
+ README.md       # Documentation
+\\\
+
+---
+
+##  Key CSS Techniques
+
+- **Flexbox Layout** - Centering and alignment
+- **CSS Transitions** - Smooth hover effects
+- **Box Shadow** - Card depth effect
+- **Border Radius** - Rounded corners
+- **Background Gradients** - Visual appeal
+
+---
+
+##  Author
 
 **Leonardo Lunardelli**
-- LinkedIn: [leolunardelli](https://www.linkedin.com/in/leolunardelli)
-- GitHub: [@leolunardelli](https://github.com/leolunardelli)
 
-## 📝 Licença
+[![GitHub](https://img.shields.io/badge/GitHub-leolunardelli-181717?style=flat-square&logo=github)](https://github.com/leolunardelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leolunardelli-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/leolunardelli)
 
-MIT
+---
+
+##  License
+
+MIT License - feel free to use and modify!
